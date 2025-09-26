@@ -1,0 +1,4 @@
+Laptop,55000
+Mouse,700
+Keyboard,1200
+Headphones,800
